@@ -31,7 +31,7 @@ export const HeroHeader = () => {
                   className="object-cover xl:w-22 lg:w-20 lg:object-contain dark:mix-blend-lighten dark:invert-100"
                   src="logothegrife.svg"
                   alt="Logo The Grife"
-                  height="0"
+                  height="60"
                   width="60"
                 />
               </Link>
